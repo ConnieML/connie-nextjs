@@ -5,6 +5,7 @@ import { StylingGlobals } from '@twilio-paste/core/styling-library';
 import { Alert } from '@twilio-paste/core/alert';
 import { Anchor } from '@twilio-paste/core/anchor';
 
+
 import { fontStyles } from '../styles/fonts';
 import { Masthead } from '../components/site/Masthead';
 import { SiteBody } from '../components/site/SiteBody';
@@ -22,7 +23,7 @@ function MyApp({ Component, pageProps }) {
       </Head>
       <Alert variant="neutral">
         <strong>N.B.</strong> This is a prototype using the{' '}
-        <Anchor href="https://paste.twilio.design" showExternal>
+        <Anchor href="https://connie.solutions" showExternal>
           Paste Design System
         </Anchor>
         .

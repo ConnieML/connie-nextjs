@@ -1,7 +1,10 @@
 {
   "home": [],
-  "explore-products": [],
+  "explore-connie": [],
   "phone-numbers": ["active-numbers"],
-  "patterns": ["delete", "create-standard"],
-  "template-page": []
+  "roles": ["agents", "supervisors", "admins"],
+  "channels": ["voice", "sms-text", "b2b-text", "fax"],
+  "get-started": [],
+  "roadmap": [],
+  "suggestion-box": []
 }

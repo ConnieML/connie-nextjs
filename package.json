@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@twilio-paste/core": "latest",
-    "@twilio-paste/icons": "latest",
+    "@twilio-paste/icons": "^12.2.0",
     "next": "13.5.4",
     "prop-types": "15.8.1",
     "react": "18.2.0",

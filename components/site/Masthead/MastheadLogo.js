@@ -32,10 +32,10 @@ export const MastheadLogo = () => {
             _focus={{ boxShadow: 'shadowFocusInverse', outline: 'none' }}
           >
             <Box as="span" display="block" fontSize="fontSize40" fontWeight="fontWeightBold" lineHeight="lineHeight40">
-              Paste
+              Connie
             </Box>
             <Box as="span" display="block" fontSize="fontSize20">
-              Prototyping Kit
+              Prototype Testing Kit V0.1
             </Box>
           </Box>
         </Link>
