@@ -19,7 +19,7 @@ export default function Home() {
   return (
     <>
       <Heading as="h1" variant="heading10">
-        Welcome to the Paste Prototyping Kit
+        Welcome to the Connie Prototyping Kit
       </Heading>
       <Separator orientation="horizontal" verticalSpacing="space50" />
       <Heading as="h2" variant="heading20">
