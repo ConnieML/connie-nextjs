@@ -2,8 +2,7 @@ import React from 'react';
 import Link from 'next/link';
 import { Box } from '@twilio-paste/core/box';
 import { MediaObject, MediaBody, MediaFigure } from '@twilio-paste/core/media-object';
-// import { LogoTwilioIcon } from '@twilio-paste/icons/cjs/LogoTwilioIcon';
-import { AgentIcon } from "@twilio-paste/icons/esm/AgentIcon";
+import { LogoTwilioIcon } from '@twilio-paste/icons/cjs/LogoTwilioIcon';
 
 export const MastheadLogo = () => {
   return (
@@ -16,8 +15,7 @@ export const MastheadLogo = () => {
             display="block"
             _focus={{ boxShadow: 'shadowFocusInverse', outline: 'none' }}
           >
-            {/* <LogoTwilioIcon decorative={true} size="sizeIcon70" /> */}
-            <AgentIcon decorative={true} size="sizeIcon70" title="Description of icon" />
+            <LogoTwilioIcon decorative={true} size="sizeIcon70" />
           </Box>
         </Link>
       </MediaFigure>
