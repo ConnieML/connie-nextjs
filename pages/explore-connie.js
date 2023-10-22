@@ -22,8 +22,7 @@ export default function Home() {
         Explore Connie Features
       </Heading>
       <Paragraph>
-        Select a feature set from the boxes below {' '}
-        <PrototypeAnchor href="/">Home</PrototypeAnchor>.
+        Select a feature set from the boxes below <PrototypeAnchor href="/">Home</PrototypeAnchor>.
       </Paragraph>
       <Heading as="h2" variant="heading20">
         Prototype Feature Set

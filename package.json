@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint --ext js ./",
+    "lint": "next lint",
     "lint:fix": "npm run lint -- --fix",
     "prettier": "prettier --list-different './**/*.{js,jsx}'",
     "prettier-clean": "prettier --write './**/*.{js,jsx}'",
@@ -16,6 +16,7 @@
     "ci-test-dev": "start-server-and-test cy-start http://localhost:3000 cy:run"
   },
   "dependencies": {
+    "@next/eslint-plugin-next": "^13.5.6",
     "@twilio-paste/core": "latest",
     "@twilio-paste/icons": "^12.2.0",
     "next": "13.5.4",
