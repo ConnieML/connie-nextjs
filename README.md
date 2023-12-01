@@ -1,3 +1,7 @@
+# Current Status
+
+This repository has been archived due to no longer having relevant use in the current state of Connie.
+
 # Paste Prototyping Kit
 
 ## Quick deploy:
